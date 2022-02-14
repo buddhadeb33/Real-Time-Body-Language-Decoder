@@ -5,7 +5,18 @@
 
 __________________
 
-![](images/emotion_father_daughter.png)
+<a href="url"><img src="images/emotion_father_daughter.png"  height="280" width="550" ></a>
+
+## Steps attemepted to create this project :
+1. Set up MediaPipe for Python
+2. Estimate Face and Body poses using your Webcam and OpenCV
+3. Collect and process Joint Coordinates using Pandas
+4. Train a custom Pose Classification model using Scikit-Learn
+5. Decode Body Language in Real time
+________________________________
+
+--------------------------------------------------------------------------------
+
 
 ![](images/body_cordinates.jpg)
 
